@@ -97,9 +97,16 @@ h1 {
 
 .text{
   width: 95%;
+  order: 2;
 }
  nav a{
   display: none;
+}
+.profile{
+order:1;
+}
+.main-content{
+flex-direction: column;
 }
 }
   

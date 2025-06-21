@@ -18,7 +18,6 @@ function App() {
         </header>
 
         <section className='main-content'>
-          <div className='profile'><img src="ziyaad.png" alt="Ziyaad's profile pic" title='profile pic' /></div>
           <div className='text'>
             <h1>Hi 👋</h1>
             <h2>I'm Ziyaad Labaran,</h2>
@@ -30,7 +29,7 @@ function App() {
               <button className='port' onClick={() => window.location.href = 'https://ziyaadlabaran.vercel.app/'}>Browse portfolio</button>
             </div>
           </div>
-
+  <div className='profile'><img src="ziyaad.png" alt="Ziyaad's profile pic" title='profile pic' /></div>
         </section>
       </div>
 

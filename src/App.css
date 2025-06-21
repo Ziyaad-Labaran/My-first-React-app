@@ -80,6 +80,7 @@ h1 {
 .text{
   width: 40%;
   font-size: 1.4rem;
+  float:right;
 }
 .profile{
   max-width: 550px;

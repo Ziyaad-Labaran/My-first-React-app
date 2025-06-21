@@ -97,6 +97,7 @@ h1 {
 
 .text{
   width: 95%;
+  float: right;
 }
  nav a{
   display: none;
